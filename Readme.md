@@ -7,10 +7,9 @@ O Secret Word consiste no famoso jogo onde o objetivo é adivinhar a palavra a c
 Curso de React da plataforma Udemy
 
 ## Layout Web
-![Game score 0](https://github.com/FelipeFardo/Assets/blob/main/Python-Flappy-Bird/Screenshot_1.png)    ![Game score 5](https://github.com/FelipeFardo/Assets/blob/main/Python-Flappy-Bird/Screenshot_2.png)
+![Game score 0](https://github.com/FelipeFardo/Assets/blob/main/Python-Flappy-Bird/Screenshot_1.png)![Game score 5](https://github.com/FelipeFardo/Assets/blob/main/Python-Flappy-Bird/Screenshot_2.png)
 
 # Tecnologias usadas:
-
 - Python
 - Biblioteca PyGame
 
