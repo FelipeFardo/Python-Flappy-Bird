@@ -3,7 +3,7 @@
 
 
 # Sobre o projeto
-Projeto sobre uma replica do jogo Flappy Bird, onde o objetivo é fazer o pássaro passar entre os canos e chegar no mais longe possível
+Projeto sobre uma replica do jogo Flappy Bird, onde o objetivo é fazer o pássaro passar entre os canos e chegar o mais longe possível
 
 ## Game
 ![Game score 0](https://github.com/FelipeFardo/Assets/blob/main/Python-Flappy-Bird/Screenshot_1.png)
